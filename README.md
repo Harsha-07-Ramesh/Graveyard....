@@ -46,12 +46,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/Harsha-07-Ramesh/Graveyard..../blob/main/Screenshot%202025-08-09%20at%2003-10-21%20Project%20Graveyard.png)
-*Add caption explaining what this shows*
+*THE WEBSITE
 
 ![Screenshot2](https://github.com/Harsha-07-Ramesh/Graveyard..../blob/main/Screenshot%202025-08-09%20at%2003-10-44%20Project%20Graveyard.png)
-*Add caption explaining what this shows*
+*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://github.com/Harsha-07-Ramesh/Graveyard..../blob/main/Screenshot%20from%202025-08-09%2003-46-50.png)
 *Add caption explaining what this shows*
 
 # Diagrams
