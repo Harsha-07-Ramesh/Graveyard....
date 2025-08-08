@@ -14,10 +14,10 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+A resting place for our half-baked ideas, abandoned apps, and ambitious plans that didn’t survive the sprint. Each project here died with potential — and maybe a few bugs.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
