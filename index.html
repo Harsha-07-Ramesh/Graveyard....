@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Graveyard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<style>
+    background-image:
+    url('scary.jpg');
+    background-size:cover;
+    background-repeat:no repeat;
+    background-position:center;
+    background-attachment:fixed;
+
+</style>
+<body>
+    
+  <div class="container">
+    <header>
+      <h1>LAY YOUR PROJECTS TO REST</h1>
+      <p>Every fallen project deserves a proper burial...</p>
+    </header>
+
+    <section class="form-section">
+      <form id="burialForm">
+        <input
+          type="text"
+          id="projectName"
+          placeholder="Project Name"
+          required
+          autocomplete="off"
+        />
+        <textarea
+          id="reason"
+          placeholder="Reason for Death"
+          rows="3"
+          required
+        ></textarea>
+        <input
+          type="date"
+          id="dateOfDeath"
+          placeholder="Date of Death"
+          required
+        />
+        <textarea
+          id="description"
+          placeholder="Optional: Description of the Project"
+          rows="3"
+        ></textarea>
+        <button type="submit">BURY</button>
+      </form>
+
+      <div id="goodbyeMessage" class="hidden">
+        <p>My apologies for not completing it, goodbye.</p>
+      </div>
+    </section>
+
+    <section class="graveyard-section">
+      <h2>Buried Projects</h2>
+      <div id="graveyard"></div>
+    </section>
+
+    <!-- Minecraft Creepy Decorations -->
+    <img src="skeleton.png" alt="Skeleton" class="decor skeleton" />
+    <img src="bat.png" alt="Bat" class="decor bat" />
+    <img src="wreath.png" alt="Wreath" class="decor wreath" />
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
