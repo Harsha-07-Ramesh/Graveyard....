@@ -45,7 +45,7 @@ For Software: VSCODE
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Screenshot 2025-08-09 at 03-10-21 Project Graveyard.png)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
