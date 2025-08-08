@@ -21,23 +21,20 @@ Countless unfinished projects were left without a final resting place. This lack
 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We created a digital graveyard to showcase our incomplete and abandoned projects. Rather than letting them disappear into forgotten folders, we gave them a permanent home — a place to reflect, laugh, and occasionally question our decision-making.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+VSCODE
+HTML
+CSS
+JAVA
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
-For Software:
+For Software: VSCODE
 # Installation
 [commands]
 
