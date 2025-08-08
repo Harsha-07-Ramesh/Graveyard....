@@ -17,6 +17,7 @@
 A resting place for our half-baked ideas, abandoned apps, and ambitious plans that didn’t survive the sprint. Each project here died with potential — and maybe a few bugs.
 
 ### The Problem (that doesn't exist)
+Countless unfinished projects were left without a final resting place. This lack of closure was emotionally inconvenient. We fixed that.
 
 
 ### The Solution (that nobody asked for)
