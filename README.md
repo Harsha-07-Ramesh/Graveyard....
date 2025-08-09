@@ -79,16 +79,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anna Mariya Babu: came up with this idea
+-T Harsha Ramesh: did coding works for this project
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
